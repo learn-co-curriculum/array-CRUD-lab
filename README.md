@@ -43,7 +43,7 @@ Run the test suite again and we should be passing that first test.
 
 ### `#create_an_array`
 
-This method should use the literal constructor to create a new array, just like we did above. This time, however, create an array that contains four elements. The four elements can be any elements of your choosing, as long as there are only four of them.
+This method should use the class constructor to create a new array, just like we did above. This time, however, create an array that contains four elements. The four elements can be any elements of your choosing, as long as there are only four of them.
 
 ### `#add_element_to_end_of_array`
 
@@ -76,3 +76,5 @@ This method takes in one argument, the array from which we want to retrieve an e
 The last element of an array is considered to be stored at an index of `-1`.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/array-CRUD-lab' title='Array Lab: Create, Retrieve, Update, Delete'>Array Lab: Create, Retrieve, Update, Delete</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/array-CRUD-lab'>Using Arrays Lab</a> on Learn.co and start learning to code for free.</p>
